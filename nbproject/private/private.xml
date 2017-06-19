@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/Element.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/text/PrintField.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/CoordElement.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/ButtonElement.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/server/WorkThread.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/server/ServerThread.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/main/Main.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/Model.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/WaitingForOpponentThread.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/ClickBackListener.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/ClickButtonElementListener.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/text/NetView.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/NetView.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/main/InputArgument.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/Field.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/ModelParams.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/ClickSelectSizeFieldListener.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/text/View.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/GameException.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/server/Compatibility.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/View.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/model/GameResult.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/gui/OpponentMoveThread.java</file>
+            <file>file:/C:/Users/Nike/Documents/NetBeansProjects/org.suai.TicTacToeGame/src/org/suai/tictactoegame/view/io/IONetModel.java</file>
+        </group>
+    </open-files>
+</project-private>
